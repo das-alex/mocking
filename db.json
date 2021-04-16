@@ -332,21 +332,6 @@
         "Address": "1414  Loop 336 West, Conroe  TX  00000",
         "Status": "H",
         "OwnerName": "Weingarten Realty Investors"
-      },
-      {
-        "TaxAccountId": 532,
-        "FidId": 104,
-        "TaxYear": 2003,
-        "ClientName": "WRI",
-        "State": "TX",
-        "CadName": "Montgomery-TX",
-        "CostCenter": "0165-001",
-        "CenterName": "Montgomery Plaza Shopping Ctr.",
-        "AcctKey": "R123851",
-        "RealPersonal": "R",
-        "Address": "1414  Loop 336 West, Conroe  TX  00000",
-        "Status": "LS",
-        "OwnerName": "Weingarten Realty Investors"
       }
     ]
   }
