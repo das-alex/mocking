@@ -1,7 +1,7 @@
 {
   "fids": {
     "@odata.context":"https://propertytaxsys.local/odata/$metadata#VWProtests",
-    "@odata.count":1200,
+    "@odata.count":20,
     "value": [
       {
         "TaxAccountId": 530,
