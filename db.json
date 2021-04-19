@@ -1,7 +1,7 @@
 {
   "fids": {
     "@odata.context":"https://propertytaxsys.local/odata/$metadata#VWProtests",
-    "@odata.count":20,
+    "@odata.count":19,
     "value": [
       {
         "TaxAccountId": 530,
@@ -292,21 +292,6 @@
         "TaxAccountId": 531,
         "FidId": 104,
         "TaxYear": 2011,
-        "ClientName": "Client",
-        "State": "TX",
-        "CadName": "Montgomery-TX",
-        "CostCenter": "0165-001",
-        "CenterName": "Montgomery Plaza Shopping Ctr.",
-        "AcctKey": "R123848",
-        "RealPersonal": "R",
-        "Address": "1414  Loop 336 West, Conroe  TX  00000",
-        "Status": "S",
-        "OwnerName": "Testeneten Realty"
-      },
-      {
-        "TaxAccountId": 531,
-        "FidId": 104,
-        "TaxYear": 2012,
         "ClientName": "Client",
         "State": "TX",
         "CadName": "Montgomery-TX",
